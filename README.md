@@ -6,8 +6,7 @@
 4.   Agora precisamos permitir que o arquivo .sh seja execultado, para isso basta colocar o comando chmod +x calculadora.sh
 5.   após isso execulte o script da calculadora com o comando "./calculadora.sh"
 
-##Como o codigo da calculadora.py funciona
-
+Como o codigo da calculadora.py funciona
 
 *   O primeiro comando é um "while True", que tem o objetivo de fazer um loop infinito, querando apenas quando o usuario digitar que quer sair no fim do loop.
 *   logo em seguida pegamos "num1" e "num2" que recebem o numero que o usuario digita e já converte em float.
