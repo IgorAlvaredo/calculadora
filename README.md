@@ -1,4 +1,4 @@
-#Como usar a calculadora
+Como usar a calculadora
 
 1.   Abra o terminal do linux
 2.   Encontre o diretório do arquivo calculadora.sh
